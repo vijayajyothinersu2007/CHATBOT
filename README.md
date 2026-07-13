@@ -196,14 +196,6 @@ B.Tech CSE (AI & Data Science)
 
 Kakinada Institute of Engineering and Technology for Women
 
----
 
-## 📄 License
 
-This project is developed for educational and learning purposes.
 
----
-
-## ⭐ Support
-
-If you found this project useful, please consider giving it a ⭐ on GitHub.
